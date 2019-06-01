@@ -10,7 +10,7 @@ This means that if you want to set aside a portion of your DAOs tokens/budget fo
 
 ## How do I use the Allocation app?
 
-![allocation](assets/allocation.png)
+<img src='https://github.com/AutarkLabs/planning-suite/raw/dev/docs/screenshots/Allocations_app.jpg' />
 
 Click on the Allocations app in the app drawer. Create a new allocation. Add a description and decide how much you want to put in that allocation. Then on a regular interval your DAO can vote to allocate the allocation however they want.
 ^^ (this is right right?)

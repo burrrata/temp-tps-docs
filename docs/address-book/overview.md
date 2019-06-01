@@ -1,28 +1,32 @@
 <br>
 
-### What is YOUR_APP_NAME?
-- 1 paragraph explanation of the app/thing
+### What is the Address Book app?
+
+The Address Book app allows you to maintain a list of Ethereum addresses mapped to human-readable names. The Address Book will enable a more user-friendly way to access and review common addresses a DAO uses for Allocations and Dot Voting.
 
 <br>
 
-### Maintainer 🚧
-- who is currently working on this and/or who do you reach out to if there's a bug? 
+### Maintainer 
+
+The [Autark team](https://github.com/AutarkLabs/planning-suite) is maintaining this Aragon app.
 
 <br>
 
-### Project Repo 🗃️
-- where's the code being worked on?
+### Project Repo 
+- https://github.com/AutarkLabs/planning-suite
 
 <br>
 
-### Security Review Status 🚨
-- Has this app been audited?
+### Security Review Status 
+
+Has this app been audited?
+- no
 
 <br>
 
-### Availability 🐲
-- DIY public beta: ?
-- rinkeby: ?
-- mainnet: ?
+### Availability 
+- DIY public beta: Yes, see GitHub
+- rinkeby: Yes
+- mainnet: Coming Soon
 
 <br>

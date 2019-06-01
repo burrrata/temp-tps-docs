@@ -10,22 +10,22 @@ The Allocations app is used to propose a financial allocation meant to be distri
 
 <br>
 
-### Maintainer 🚧
+### Maintainer 
 - [Autark Devs](https://github.com/AutarkLabs/planning-suite/issues)
 
 <br>
 
-### Project Repo 🗃️
+### Project Repo 
 - https://github.com/AutarkLabs/planning-suite/
 
 <br>
 
-### Security Review Status 🚨
+### Security Review Status 
 - This app has not been audited
 
 <br>
 
-### Availability 🐲
+### Availability 
 - DIY public beta: Yes
 - rinkeby: Yes
 - mainnet: Soon 
