@@ -1,7 +1,27 @@
 <br>
 
 ### How do you run it locally?
-- instructions on how to run the app
+
+> Node.js LTS or greater required.
+
+> @aragon/cli and truffle npm deps are automatically installed when bootstrapping.
+
+```bash
+# Bootstrap project dependencies:
+$ npm i
+
+# Start a local blockchain and deploy
+# aragon dao kit with all apps:
+$ npm start
+
+# Develop single app react frontend:
+$ npm run dev:address
+
+# Develop single app with backend and aragon wrapper:
+$ npm run start:address
+```
+
+
 
 <br>
 
