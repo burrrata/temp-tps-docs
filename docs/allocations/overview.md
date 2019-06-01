@@ -1,28 +1,33 @@
 <br>
 
-### What is YOUR_APP_NAME?
-- 1 paragraph explanation of the app/thing
+Rewarding and recognizing contributions.
+
+<br>
+
+## What is the Allocation app?
+
+The Allocations app is used to propose a financial allocation meant to be distributed to multiple parties. Allocation proposals are forwarded to the Dot Voting app. The percentage of the allocation amount distributed to each party is determined based on the results of the Dot Vote.
 
 <br>
 
 ### Maintainer 🚧
-- who is currently working on this and/or who do you reach out to if there's a bug? 
+- [Autark Devs](https://github.com/AutarkLabs/planning-suite/issues)
 
 <br>
 
 ### Project Repo 🗃️
-- where's the code being worked on?
+- https://github.com/AutarkLabs/planning-suite/
 
 <br>
 
 ### Security Review Status 🚨
-- Has this app been audited?
+- This app has not been audited
 
 <br>
 
 ### Availability 🐲
-- DIY public beta: ?
-- rinkeby: ?
-- mainnet: ?
+- DIY public beta: Yes
+- rinkeby: Yes
+- mainnet: Soon 
 
 <br>
