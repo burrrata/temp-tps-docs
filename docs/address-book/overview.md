@@ -15,20 +15,23 @@ We can be found in the [`autark.community` keybase channel](https://keybase.io/t
 <br>
 
 ### Project Repo 
-- https://github.com/AutarkLabs/planning-suite
+
+https://github.com/AutarkLabs/planning-suite
 
 <br>
 
 ### Security Review Status 
 
-Has this app been audited?
-- no
+This app has not been audited.
 
 <br>
 
 ### Availability 
-- DIY public beta: Yes, see GitHub
-- rinkeby: Yes
-- mainnet: Coming Soon
+
+DIY public beta: Yes, see GitHub
+
+Ethereum Rinkeby: Yes
+
+Ethereum Mainnet: Coming Soon
 
 <br>
