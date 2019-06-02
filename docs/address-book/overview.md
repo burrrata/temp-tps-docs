@@ -10,6 +10,8 @@ The Address Book app allows you to maintain a list of Ethereum addresses mapped 
 
 The [Autark team](https://github.com/AutarkLabs/planning-suite) is maintaining this Aragon app.
 
+We can be found in the [`autark.community` keybase channel](https://keybase.io/team/autark.community). If you have any questions or want to get involved in our development please drop in.
+
 <br>
 
 ### Project Repo 
