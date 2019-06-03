@@ -30,3 +30,9 @@ $ npm run start:dot
 **Detailed information can be found in the [DEVELOPMENT_NOTES.md](https://github.com/AutarkLabs/planning-suite/blob/dev/docs/DEVELOPMENT_NOTES.md) document.**
 
 <br>
+
+## Still have questions?
+
+[Ask the Autark team on Keybase!](https://keybase.io/team/autark.community)
+
+<br>
