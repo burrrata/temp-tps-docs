@@ -39,3 +39,7 @@ Ethereum Rinkeby: Yes
 Ethereum Mainnet: Coming Soon
 
 <br>
+
+### Docs & Guides
+
+If you'd like to learn more, please visit our [Developer Hub](https://www.burrrata.ch/hack.aragon4all/docs/developers/welcome).
