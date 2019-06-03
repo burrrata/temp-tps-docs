@@ -10,10 +10,45 @@ This means that if you want to set aside a portion of your DAOs tokens/budget fo
 
 ## How do I use the Allocation app?
 
-<img src='https://github.com/AutarkLabs/planning-suite/raw/dev/docs/screenshots/Allocations_app.jpg' />
+<img src='https://cdn-images-1.medium.com/max/2160/1*PRCNTHvTHvOJQajJq6SZOQ.png' />
 
-Click on the Allocations app in the app drawer. Create a new allocation. Add a description and decide how much you want to put in that allocation. Then on a regular interval your DAO can vote to allocate the allocation however they want.
-^^ (this is right right?)
+- An account needs to be created via the “New Account” button before proposing an Allocation. Accounts are used to categorize allocation types that occur frequently.
+- To propose an allocation, choose the “New Allocation” action from the Account’s context menu.
+- In the New Allocation panel, enter an allocation amount which can be drawn from the ETH held in the account, or any of the token’s in your Organization’s vault.
+
+<br>
+
+### Tips
+- Use the Address Book to manage Ethereum addresses you will be sending regular allocations to. Once you have added entries to your address book, you can select “Use address book for options” in the New Allocation panel to select the recipients.
+- If categorizing by Account isn’t useful to you, feel free to create a “General” account and create your allocations from this account.
+
+<br>
+
+### Use cases
+
+- Your organization is determining how to allocate a predefined amount of funds to child organizations or departments. (If the child organizations are also part of Aragon, input the organization’s vault address in your Address Book)
+- Your organization has ongoing work areas that aren’t necessarily specific project issues that can be individually funded (e.g. participating on the forum, taking meeting notes, more general contributions). These contributors can be subjects of Allocation proposals meant to give back to community members that contribute in a noticeable manner (and usually on a voluntary basis).
+
+<br>
+
+### Current Limitations
+
+There is a current limitation with how Accounts currently function. An “Account” can hold ETH, but it can transfer tokens that are in the organization’s vault (yet not the Vault’s ETH). This can also be a bit confusing for the user experience. Due to these limitations, if tokens are sent to the Account address they will not be accessible.
+
+<br>
+
+### Future
+
+Before launching to mainnet, we would like to resolve the above limitations. To do so, we plan on enhancing how accounts work so the user experience is more intuitive. One possible solution is:
+- Instead of accounts holding/receiving ETH, they will instead function more as budget controls for specific initiatives.
+- Accounts will have the following properties:
+  - Name (e.g. Community Funding Initiative)
+  - Budget cycle (e.g. Monthly)
+  - Budget amount (e.g. 4,000 DAI/month)
+- All accounts will withdraw from the vault and cannot be individually funded. Updating the budget will be protected by an organization role.
+- Accounts cards will display amount spent and budget remaining per cycle.
+
+Another possible solution, which may make the experience even smoother, is enhancing the current Finance app within Aragon to provide segmenting capital by accounts. Autark’s initial application development approach was to develop new apps, but now that we are a Flock team and have had a year to reflect, we think that this is a use case where the experience would be more seamless if both single party and multi-party financial allocations were managed in a unified app.
 
 <br>
 
