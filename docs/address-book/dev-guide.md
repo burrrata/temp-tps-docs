@@ -45,7 +45,7 @@ TBD
 
 ## Show me the code!
 
-[Here's the Address Book GitHub repo.](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/address-book)
+[Address Book GitHub repo.](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/address-book)
 
 <br>
 
