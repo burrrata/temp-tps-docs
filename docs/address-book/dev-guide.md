@@ -1,5 +1,3 @@
-<br>
-
 ## How do you run it locally?
 
 > Node.js LTS or greater required.
