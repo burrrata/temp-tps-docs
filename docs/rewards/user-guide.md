@@ -1,6 +1,6 @@
 <br>
 
-## What does the app do?
+## What does the Rewards app do?
 
 With Rewards, you can distribute payments to token holders based on the number of tokens one has earned in a specific cycle of time (one-time reward) or based on the total tokens one holds (dividend).
 - One-time, or Merit Rewards, are determined based on how many tokens a token holder has earned compared to other holders, in a specific time period.
@@ -8,13 +8,13 @@ With Rewards, you can distribute payments to token holders based on the number o
 
 <br>
 
-## What are the intended use cases?
+## What are the intended use cases for the Rewards App?
 
 TBD
 
 <br>
 
-## How do you use it?
+## How do you use the Rewards app?
 
 <img src='https://cdn-images-1.medium.com/max/2160/1*Q5R5QGKWhtVQ1WmFVU_jpQ.png' />
 
@@ -23,7 +23,7 @@ TBD
 
 <br>
 
-## Where can you learn more?
+## More Rewards app resources
 
 The [Aurark website](https://www.autark.xyz/) is a great start.
 - [Rewards app](https://www.autark.xyz/rewards)
