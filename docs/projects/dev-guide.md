@@ -8,6 +8,8 @@
 ## How do you install it in a pre-existing DAO?
 - instructions on deployment & installation on an Aragon DAO
 
+https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-the-projects-app
+
 <br>
 
 ## Technical Breakdown 
