@@ -137,3 +137,12 @@ The Allocations app requires the following initialization parameter:
 ```
 dao install <dao-address> tps-allocations.open.aragonpm.eth --app-init-args [AddressBook] [Vault] --environment aragon:rinkeby 
 ```
+
+<br>
+
+## Notes
+
+More info and troubleshooting tips can be found here:
+- https://github.com/AutarkLabs/planning-suite/blob/dev/docs/DEVELOPMENT_NOTES.md
+
+<br>
