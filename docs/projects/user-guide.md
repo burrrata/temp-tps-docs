@@ -1,18 +1,18 @@
 <br>
 
-## What does the Autark TPS Projects app do?
+## What does the Projects app do?
 
 Projects is integrated with Github and allows organizations to allocate tokens or ETH against multiple issues in a single action, with the possibility to require DAO approval before funding is allocated. Additionally, Issue Curation proposals can be created via the Projects app, which are forwarded to the Dot Voting app to collectively determine project priorities.
 
 <br>
 
-## What are the intended use cases?
+## What are the intended use cases for the Projects app?
 
 Projects can be added by connecting a Github repo, which will then display the repo's issues within an Aragon DAO. Members of the DAO can then use the TPS Projects app to curate issues to prioritize a roadmap or collectively allocate bounties to multiple issues in a single action.
 
 <br>
 
-## How do you use it?
+## How do you use the Projects app?
 
 <img src='https://cdn-images-1.medium.com/max/2160/1*1jsxao_cOo4t7GeHgLsNPA.png' />
 
