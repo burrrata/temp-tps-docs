@@ -1,7 +1,24 @@
+<br>
+
+<img src='https://cdn-images-1.medium.com/max/2160/1*PRCNTHvTHvOJQajJq6SZOQ.png' />
+
+<br>
 
 ## What is the Allocation app?
 
 The Allocations app is used to propose a financial allocation meant to be distributed to multiple parties. Allocation proposals are forwarded to the Dot Voting app. The percentage of the allocation amount distributed to each party is determined based on the results of the Dot Vote.
+
+<br>
+
+### Where can I find a user guide for the TPS Address Book app?
+
+[Here](https://www.burrrata.ch/hack.aragon4all/docs/sync/allocations-user-guide)
+
+<br>
+
+### Where can I find a developer guide and docs for the TPS Address Book app?
+
+[Here](https://www.burrrata.ch/hack.aragon4all/docs/sync/allocations-dev-guide)
 
 <br>
 
@@ -32,5 +49,11 @@ DIY public beta: Yes, see GitHub
 Ethereum Rinkeby: Yes
 
 Ethereum Mainnet: Coming Soon
+
+<br>
+
+### Docs & Guides
+
+If you'd like to learn more, please visit our [Developer Hub](https://www.burrrata.ch/hack.aragon4all/docs/sync/allocations-readme).
 
 <br>
