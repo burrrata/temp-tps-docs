@@ -1,7 +1,7 @@
-<br>
-
 ## How do you run it locally?
 - instructions on how to run the app
+
+### Aragon CLI Deployment 
 
 > Node.js LTS or greater required.
 
@@ -22,15 +22,11 @@ $ npm run dev:dot
 $ npm run start:dot
 ```
 
-<br>
-
-### Extra tips
-
+### Tips
 - Individual development is ultra-fast thanks to parcel and hot module replacement.
 - Start the dao kit to manage smart contracts interactions between all "planning apps" and aragon official apps (token manager and voting right now)
 - The start script spawns a local blockchain, needed to publish the apps before deploying the dao kit template with all them.
-
-**Detailed information can be found in the [DEVELOPMENT_NOTES.md](https://github.com/AutarkLabs/planning-suite/blob/dev/docs/DEVELOPMENT_NOTES.md) document.**
+- **Detailed information in the [DEVELOPMENT_NOTES.md](/docs/DEVELOPMENT_NOTES.md) document.**
 
 <br>
 
@@ -49,12 +45,6 @@ https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md
 ## Show me the code!
 
 [Dot Voting repo on GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/dot-voting)
-
-[Here's how you can add the Projects app to a pre-existing DAO](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-dot-voting-app)!
-
-[Here's where you can roll your own TPS enables DAO on Rinkeby to explore the Projects app](https://rinkeby.autark.xyz/)
-
-[Here's a live working DAO that's set up with TPS apps already enabled](https://rinkeby.aragon.org/#/dune.aragonid.eth)
 
 <br>
 
