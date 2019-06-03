@@ -4,13 +4,19 @@
 
 <br>
 
-### What does the Dot Voting app do?
+## What does the Dot Voting app do?
 
 Dot Voting is used to cast votes for Allocation or Issue Curation proposals. Members can vote on how to distribute an allocation across distinct entities or prioritize a list of Github issues by specifying a percentage of votes per option.
 
 <br>
 
-### How do you use it?
+## What are the intended use cases for the Dot Voting app?
+
+TBD
+
+<br>
+
+## How do you use the Dot Voting app?
 
 <img src='https://cdn-images-1.medium.com/max/2160/1*GX-1Uc0pGUzgsozI7GGAiQ.png' />
 
@@ -27,7 +33,7 @@ Dot Voting is used to cast votes for Allocation or Issue Curation proposals. Mem
 
 <br>
 
-## Where can I learn more?
+## Dot Voting app resources
 
 The [Aurark website](https://www.autark.xyz/) is a great start.
 - [Range Voting app](https://www.autark.xyz/range-voting) (note: range voting = dot voting)
