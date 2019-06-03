@@ -31,7 +31,7 @@ We can be found in the [`autark.community` keybase channel](https://keybase.io/t
 
 ### Project Repo
 
-[Dot Voting GitHub repo](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/dot-voting)
+[Dot Voting app GitHub repo](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/dot-voting)
 
 <br>
 
