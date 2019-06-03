@@ -1,28 +1,41 @@
 <br>
 
-### What is YOUR_APP_NAME?
-- 1 paragraph explanation of the app/thing
+<img src='https://cdn-images-1.medium.com/max/2160/1*1jsxao_cOo4t7GeHgLsNPA.png' />
 
 <br>
 
-### Maintainer 🚧
-- who is currently working on this and/or who do you reach out to if there's a bug? 
+### What is the Autark TPS Projects app?
+
+Projects is integrated with Github and allows organizations to allocate tokens or ETH against multiple issues in a single action, with the possibility to require DAO approval before funding is allocated. Additionally, Issue Curation proposals can be created via the Projects app, which are forwarded to the Dot Voting app to collectively determine project priorities.
 
 <br>
 
-### Project Repo 🗃️
-- where's the code being worked on?
+### Maintainer
+
+The [Autark team](https://github.com/AutarkLabs/planning-suite) is maintaining this Aragon app.
+
+We can be found in the [`autark.community` keybase channel](https://keybase.io/team/autark.community). If you have any questions or want to get involved in our development please drop in.
 
 <br>
 
-### Security Review Status 🚨
-- Has this app been audited?
+### Project Repo 
+
+https://github.com/AutarkLabs/planning-suite
 
 <br>
 
-### Availability 🐲
-- DIY public beta: ?
-- rinkeby: ?
-- mainnet: ?
+### Security Review Status 
+
+This app has not been audited.
+
+<br>
+
+### Availability 
+
+DIY public beta: Yes, see GitHub
+
+Ethereum Rinkeby: Yes
+
+Ethereum Mainnet: Coming Soon
 
 <br>
