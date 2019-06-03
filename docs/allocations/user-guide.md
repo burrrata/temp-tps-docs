@@ -1,6 +1,6 @@
 <br>
 
-### What does the app do?
+## What does the Allocations app do?
 
 The Allocations app is used to propose a financial allocation meant to be distributed to multiple parties. Allocation proposals are forwarded to the Dot Voting app. The percentage of the allocation amount distributed to each party is determined based on the results of the Dot Vote.
 
@@ -16,7 +16,7 @@ Your organization has ongoing work areas that aren’t necessarily specific proj
 
 <br>
 
-## How do I use the Allocation app?
+## How do I use the Allocations app?
 
 <img src='https://cdn-images-1.medium.com/max/2160/1*PRCNTHvTHvOJQajJq6SZOQ.png' />
 
