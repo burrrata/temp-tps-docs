@@ -1,6 +1,6 @@
 <br>
 
-### How do you run it locally?
+## How do you run it locally?
 
 > Node.js LTS or greater required.
 
@@ -21,16 +21,31 @@ $ npm run dev:address
 $ npm run start:address
 ```
 
-
-
 <br>
 
-### How do you install it in a pre-existing DAO?
+## How do you install it in a pre-existing DAO?
 - instructions on deployment & installation on an Aragon DAO
 
+https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-address-book
+
 <br>
 
-### Technical Breakdown 
+## Technical Breakdown 
 - explanation of each function/feature, what it does, and how to use it. 
 
+TBD 
+
 <br>
+
+## Show me the code!
+
+https://github.com/AutarkLabs/planning-suite/tree/dev/apps/address-book
+
+<br>
+
+## Still have questions?
+
+[Ask the Autark team on Keybase!](https://keybase.io/team/autark.community)
+
+<br>
+
