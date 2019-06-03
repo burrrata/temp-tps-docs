@@ -1,5 +1,3 @@
-<br>
-
 ## How do you run it locally?
 
 ### Aragon CLI Deployment 
