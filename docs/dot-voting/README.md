@@ -1,7 +1,23 @@
 <br>
 
+<img src='https://cdn-images-1.medium.com/max/2160/1*GX-1Uc0pGUzgsozI7GGAiQ.png' />
+
+<br>
+
 ### What is the Autark TPS Dot Voting app?
 - Dot Voting* is used to cast votes for Allocation or Issue Curation proposals. Members can vote on how to distribute an allocation across distinct entities or prioritize a list of Github issues by specifying a percentage of votes per option.
+
+<br>
+
+### Where can I find a user guide for the TPS Address Book app?
+
+[Here](https://www.burrrata.ch/hack.aragon4all/docs/sync/dot-voting-user-guide)
+
+<br>
+
+### Where can I find a developer guide and docs for the TPS Address Book app?
+
+[Here](https://www.burrrata.ch/hack.aragon4all/docs/sync/dot-voting-dev-guide)
 
 <br>
 
@@ -25,12 +41,19 @@ This app has not been audited.
 
 <br>
 
-### Availability
+### Availability 
 
-DIY public beta: ?
+DIY public beta: [Yes](https://www.burrrata.ch/hack.aragon4all/docs/sync/dot-voting-dev-guide)
 
-Ethereum Rinkeby: ?
+Ethereum Rinkeby: [Yes](https://www.burrrata.ch/hack.aragon4all/docs/sync/dot-voting-dev-guide)
 
-Ethereum Mainnet: ?
+Ethereum Mainnet: Coming Soon
 
 <br>
+
+### Docs & Guides
+
+If you'd like to learn more, please visit our [Developer Hub](https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-readme).
+
+<br>
+
