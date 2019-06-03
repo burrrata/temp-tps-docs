@@ -12,14 +12,13 @@ The Address Book app allows you to maintain a list of Ethereum addresses mapped 
 
 ### Where can I find a user guide for the TPS Address Book app?
 
-https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-user-guide
-
+[Here](https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-user-guide)
 
 <br>
 
 ### Where can I find a developer guide and docs for the TPS Address Book app?
 
-https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-dev-guide
+[Here](https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-dev-guide)
 
 <br>
 
@@ -50,5 +49,12 @@ DIY public beta: [Yes](https://www.burrrata.ch/hack.aragon4all/docs/sync/address
 Ethereum Rinkeby: [Yes](https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-dev-guide)
 
 Ethereum Mainnet: Coming Soon
+
+<br>
+
+### Docs & Guides
+- Link to the app's docs in your dev-hub.
+
+If you'd like to learn more, please visit our [Developer Hub](https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-readme).
 
 <br>
