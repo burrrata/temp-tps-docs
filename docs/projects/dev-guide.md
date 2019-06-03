@@ -47,13 +47,7 @@ https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md
 
 ## Show me the code!
 
-[Here's the GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/projects)
-
-[Here's how you can add the Projects app to a pre-existing DAO](https://github.com/AutarkLabs/planning-suite/blob/dev/docs/GETTING_STARTED.md#install-the-projects-app)
-
-[Here's where you can roll your own TPS enables DAO on Rinkeby to explore the Projects app](https://rinkeby.autark.xyz/)
-
-[Here's a live working DAO that's set up with TPS apps already enabled](https://rinkeby.aragon.org/#/dune.aragonid.eth)
+[Projects app GitHub repo](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/projects)
 
 <br>
 
