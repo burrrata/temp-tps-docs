@@ -44,7 +44,7 @@ https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md
 
 ## Show me the code!
 
-[Dot Voting repo on GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/dot-voting)
+[Dot Voting GitHub repo](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/dot-voting)
 
 <br>
 
