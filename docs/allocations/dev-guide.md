@@ -43,13 +43,7 @@ https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md
 
 ## Show me the code!
 
-[Allocations repo on GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/allocations)
-
-[Here's how you can add the Projects app to a pre-existing DAO](https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-the-allocations-app)
-
-[Here's where you can roll your own TPS enables DAO on Rinkeby to explore the Allocations app](https://rinkeby.autark.xyz/)
-
-[Here's a live working DAO that's set up with TPS apps already enabled](https://rinkeby.aragon.org/#/dune.aragonid.eth)
+[Allocations app repo on GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/allocations)
 
 <br>
 
