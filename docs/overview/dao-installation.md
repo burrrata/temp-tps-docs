@@ -5,6 +5,7 @@
 # Installing That Planning Suite to an Existing DAO
 The following are instructions to install That Planning Suite. 
 
+<br>
 
 ## aragonCLI primer
 We will be using aragonCLI.
@@ -50,7 +51,7 @@ Refer to these links for more information:
 * https://hack.aragon.org/docs/guides-custom-deploy
 * https://hack.aragon.org/docs/cli-dao-commands
 
-
+<br>
 
 ## Install Address Book
 #### tps-address-book.open.aragonpm.eth
@@ -64,6 +65,8 @@ The address book does not require passing any initialization parameters.
 ```
 dao install <dao-address> tps-address-book.open.aragonpm.eth --environment aragon:rinkeby
 ```
+
+<br>
 
 ## Install Dot Voting App
 #### tps-dot-voting.open.aragonpm.eth
@@ -85,6 +88,7 @@ This will install a Dot Voting instance with a participation requirement of 50% 
 dao install <dao-address> tps-dot-voting.open.aragonpm.eth --app-init-args [AddressBook] [MinimeToken] 500000000000000000 0 604800 --environment aragon:rinkeby
 ```
 
+<br>
 
 ## Install the Projects app
 #### tps-projects.open.aragonpm.eth
@@ -101,6 +105,8 @@ The Projects app requires the following initialization parameters:
 dao install <dao-address> tps-projects.open.aragonpm.eth --app-init-args 0xcac024cb2ad5f22c3e92053b95c89f69442952d8 [Vault] [paymentToken] --environment aragon:rinkeby 
 ```
 
+<br>
+
 ## Install the Rewards app
 #### tps-rewards.open.aragonpm.eth
 
@@ -114,6 +120,8 @@ The Rewards app requires the following initialization parameter:
 ```
 dao install <dao-address> tps-rewards.open.aragonpm.eth --app-init-args [Vault] --environment aragon:rinkeby 
 ```
+
+<br>
 
 ## Install the Allocations app
 #### tps-allocations.open.aragonpm.eth
