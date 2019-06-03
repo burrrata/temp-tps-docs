@@ -1,6 +1,9 @@
+# Installing That Planning Suite via Web Template
+You can create a new organization that comes preconfigured with That Planning Suite by visiting [rinkeby.autark.xyz](https://rinkeby.autark.xyz)
 
-## Try It Out!
+<br>
 
-If you want to build your own DAO using Autark's TPS Suite, you can on Rinkeby! 
+## Configure voting settings
+The Dot Voting "quorum" requirement is the `minParticipationPct`, or minimum percentage of total votes required for a Dot Vote to succeed. This is different than the [Voting app's minimum acceptance quorum](https://wiki.aragon.org/dev/apps/voting/) which is the minimum % of all token supply that needs to vote "yes" in order for the vote to be succeed.
 
-- https://rinkeby.autark.xyz/#/
+<br>
