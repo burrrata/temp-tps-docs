@@ -2,6 +2,8 @@
 
 ## How do you run it locally?
 
+### Aragon CLI Deployment 
+
 > Node.js LTS or greater required.
 
 > @aragon/cli and truffle npm deps are automatically installed when bootstrapping.
