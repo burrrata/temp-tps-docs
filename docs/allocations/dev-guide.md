@@ -43,7 +43,7 @@ https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md
 
 ## Show me the code!
 
-[Allocations app repo on GitHub](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/allocations)
+[Allocations app GitHub repo](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/allocations)
 
 <br>
 
