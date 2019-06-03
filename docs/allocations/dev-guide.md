@@ -1,6 +1,8 @@
 <br>
 
-### How do you run it locally?
+## How do you run it locally?
+
+### Aragon CLI Deployment 
 
 > Node.js LTS or greater required.
 
@@ -21,7 +23,7 @@ $ npm run dev:allocations
 $ npm run start:allocations
 ```
 
-Tips
+### Tips
 - Individual development is ultra-fast thanks to parcel and hot module replacement.
 - Start the dao kit to manage smart contracts interactions between all "planning apps" and aragon official apps (token manager and voting right now)
 - The start script spawns a local blockchain, needed to publish the apps before deploying the dao kit template with all them.
@@ -29,12 +31,12 @@ Tips
 
 <br>
 
-### How do you install it in a pre-existing DAO?
-- instructions on deployment & installation on an Aragon DAO
+## How do you install it in a pre-existing DAO?
+- instructions on deployment & installation on an Aragon DAO TBD
 
 <br>
 
-### Technical Breakdown 
+## Technical Breakdown 
 - explanation of each function/feature, what it does, and how to use it. 
 
 <br>
