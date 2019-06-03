@@ -1,5 +1,7 @@
 ## How do you run it locally?
 
+### Aragon CLI Deployment 
+
 > Node.js LTS or greater required.
 
 > @aragon/cli and truffle npm deps are automatically installed when bootstrapping.
@@ -19,6 +21,12 @@ $ npm run dev:address
 $ npm run start:address
 ```
 
+### Tips
+- Individual development is ultra-fast thanks to parcel and hot module replacement.
+- Start the dao kit to manage smart contracts interactions between all "planning apps" and aragon official apps (token manager and voting right now)
+- The start script spawns a local blockchain, needed to publish the apps before deploying the dao kit template with all them.
+- 
+
 <br>
 
 ## How do you install it in a pre-existing DAO?
@@ -37,7 +45,7 @@ TBD
 
 ## Show me the code!
 
-https://github.com/AutarkLabs/planning-suite/tree/dev/apps/address-book
+[Here's the Address Book GitHub repo.](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/address-book)
 
 <br>
 
