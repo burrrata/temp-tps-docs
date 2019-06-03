@@ -1,8 +1,3 @@
-<br>
-
-Rewarding and recognizing contributions.
-
-<br>
 
 ## What is the Allocation app?
 
