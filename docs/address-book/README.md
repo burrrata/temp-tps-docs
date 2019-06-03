@@ -32,7 +32,7 @@ We can be found in the [`autark.community` keybase channel](https://keybase.io/t
 
 ### Project Repo 
 
-The TPS Address Book source code can be found [here](https://github.com/AutarkLabs/planning-suite)
+The TPS Address Book source code can be found [here](https://github.com/AutarkLabs/planning-suite).
 
 <br>
 
