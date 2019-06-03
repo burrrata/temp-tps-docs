@@ -32,9 +32,9 @@ This app has not been audited.
 
 ### Availability 
 
-DIY public beta: Yes, see GitHub
+DIY public beta: [Yes](https://www.burrrata.ch/hack.aragon4all/docs/sync/projects-dev-guide)
 
-Ethereum Rinkeby: Yes
+Ethereum Rinkeby: [Yes](https://www.burrrata.ch/hack.aragon4all/docs/sync/projects-dev-guide)
 
 Ethereum Mainnet: Coming Soon
 
