@@ -34,6 +34,8 @@ $ npm run start:allocations
 ## How do you install it in a pre-existing DAO?
 - instructions on deployment & installation on an Aragon DAO TBD
 
+https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md#install-the-allocations-app
+
 <br>
 
 ## Technical Breakdown 
