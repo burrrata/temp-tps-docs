@@ -1,7 +1,3 @@
-- source: https://github.com/AutarkLabs/planning-suite/blob/master/docs/GETTING_STARTED.md
-
-<br>
-
 # Installing That Planning Suite to an Existing DAO
 The following are instructions to install That Planning Suite. 
 
@@ -144,5 +140,11 @@ dao install <dao-address> tps-allocations.open.aragonpm.eth --app-init-args [Add
 
 More info and troubleshooting tips can be found here:
 - https://github.com/AutarkLabs/planning-suite/blob/dev/docs/DEVELOPMENT_NOTES.md
+
+<br>
+
+## Still have questions?
+
+[Ask the Autark team on Keybase!](https://keybase.io/team/autark.community)
 
 <br>
