@@ -53,7 +53,6 @@ Ethereum Mainnet: Coming Soon
 <br>
 
 ### Docs & Guides
-- Link to the app's docs in your dev-hub.
 
 If you'd like to learn more, please visit our [Developer Hub](https://www.burrrata.ch/hack.aragon4all/docs/sync/address-book-readme).
 
