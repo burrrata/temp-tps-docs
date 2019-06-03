@@ -20,7 +20,7 @@ We can be found in the [`autark.community` keybase channel](https://keybase.io/t
 
 ### Project Repo 
 
-https://github.com/AutarkLabs/planning-suite
+[Projects app GitHub repo](https://github.com/AutarkLabs/planning-suite/tree/dev/apps/projects)
 
 <br>
 
