@@ -1,22 +1,18 @@
-<br>
-
-<img src='https://cdn-images-1.medium.com/max/2160/1*rWT5UnmQ-dME9g-lJ8y0cw.png' />
-
-<br>
-
-## What does the app do?
+## What does the Address Book app do?
 
 The Address Book is for maintaining a list of Ethereum addresses mapped to human-readable names, on-chain. The Address Book will enable a more user-friendly way to access and review common addresses a DAO uses for Allocations and Dot Voting.
 
 <br>
 
-##What are the intended use cases?
+## What are the intended use cases for the Address Book app?
 
 TBD
 
 <br>
 
-## How do you use it?
+## How do you use the Address Book app?
+
+<img src='https://cdn-images-1.medium.com/max/2160/1*rWT5UnmQ-dME9g-lJ8y0cw.png' />
 
 Create a New Entity by specifying a name, Ethereum address and type (individual, organization, project)
 
